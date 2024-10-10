@@ -1,5 +1,5 @@
 <h2 align="left">Eaii, me chamo Juliana Varela</h2>
-<p>Pessoal, aqui temos meu portifólio, estou na faculdade de Ciência da Computação</p>
+<p>Pessoal, aqui temos meu portifólio, estou na faculdade de Ciência da Computação, ainda no primeiro período estou aprendendo lógica de programação em C++ com alguns projetos.</p>
 
 ###
 
