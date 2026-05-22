@@ -1,5 +1,5 @@
 <h2 align="left">Eaii, me chamo Juliana Varela</h2>
-<p>Pessoal, aqui temos meu portifólio, estou na faculdade de Ciência da Computação, ainda no primeiro período estou aprendendo lógica de programação em C++ com alguns projetos.</p>
+<p>Olá! Aqui temos meu portfólio. Atualmente curso Ciência da Computação e estou no quarto semestre da faculdade. Tenho conhecimentos em lógica de programação e desenvolvimento em C++, SQL, Python, HTML, JavaScript, CSS, participando de projetos acadêmicos que vêm fortalecendo minhas habilidades em programação, resolução de problemas e desenvolvimento de software. Estou em constante aprendizado e buscando evoluir cada vez mais na área da tecnologia.</p>
 
 ###
 
